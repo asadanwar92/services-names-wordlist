@@ -131,6 +131,8 @@ supervisord
 support
 svn
 tasks
+tc
+teamcity
 team
 teraform
 tools
